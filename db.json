@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Shopping List",
+      "content": "Milk, Bread, Eggs, Butter"
+    },
+    {
+      "id": "2",
+      "title": "Meeting Notes",
+      "content": "Discuss project timeline and deliverables."
+    },
+    {
+      "id": "3",
+      "title": "Workout Plan",
+      "content": "Monday: Cardio, Tuesday: Strength, Wednesday: Rest"
+    },
+    {
+      "id": "4",
+      "title": "Books to Read",
+      "content": "1984, Brave New World, The Catcher in the Rye"
+    },
+    {
+      "id": "5",
+      "title": "Vacation Ideas",
+      "content": "Visit Japan, explore Iceland, relax in Hawaii"
+    },
+    {
+      "id": 6,
+      "title": "Birthday Party",
+      "content": "Plan cake, decorations, and guest list."
+    }
+  ]
+}
